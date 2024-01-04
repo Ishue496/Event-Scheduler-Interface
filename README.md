@@ -43,3 +43,7 @@ Front-end: HTML, CSS, JavaScript.
 
 CONTACT
 For any questions or inquiries, please contact the project maintainers at ishmaelshumba19@gmail.com
+
+
+
+https://ishue496.github.io/Event-Scheduler-Interface/  link for a quick review of my project
