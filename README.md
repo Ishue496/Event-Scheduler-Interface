@@ -1,3 +1,5 @@
+https://ishue496.github.io/Event-Scheduler-Interface/  link for a quick review of my project
+
 Event Scheduler Interface
 The Event Scheduler Interface is a web-based application that allows users to schedule and manage events easily. It provides a user-friendly interface for creating, editing, and organizing events, ensuring efficient event management.
 
@@ -43,7 +45,3 @@ Front-end: HTML, CSS, JavaScript.
 
 CONTACT
 For any questions or inquiries, please contact the project maintainers at ishmaelshumba19@gmail.com
-
-
-
-https://ishue496.github.io/Event-Scheduler-Interface/  link for a quick review of my project
